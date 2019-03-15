@@ -1,0 +1,19 @@
+{
+  "name": "obs-controller",
+  "version": "0.0.1",
+  "description": "Node.js connector for OBS Studio (Windows only)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerpyScripts/obs_controller.git"
+  },
+  "author": "Arturs Dobrecovs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerpyScripts/obs_controller/issues"
+  },
+  "homepage": "https://github.com/DerpyScripts/obs_controller#readme",
+  "dependencies": {
+    "get-installed-path": "^4.0.8"
+  }
+}
