@@ -12,8 +12,5 @@
   "bugs": {
     "url": "https://github.com/DerpyScripts/obs_controller/issues"
   },
-  "homepage": "https://github.com/DerpyScripts/obs_controller#readme",
-  "dependencies": {
-    "get-installed-path": "^4.0.8"
-  }
+  "homepage": "https://github.com/DerpyScripts/obs_controller#readme"
 }
