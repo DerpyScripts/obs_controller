@@ -4,4 +4,6 @@ Requires the obs-websocket OBS plugin, which can be installed with the ```instal
 
 ## How to install
 Run the following command at the root of the project where you want to install OBS Controller. Please remember that this is only supported on Windows machines.
-```npm install --save derpyscripts/obs_controller#master```
+```
+npm install --save derpyscripts/obs_controller#master
+```
