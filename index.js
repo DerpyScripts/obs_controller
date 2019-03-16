@@ -13,7 +13,7 @@ const
 const currentDir = process.cwd();
 const OBS_COMMAND_EXEC = currentDir + '\\OBSCommand\\OBSCommand.exe';
 
-class OBSController {
+export class OBSController {
 	
 	constructor(host, port) {
 		this._host = host;

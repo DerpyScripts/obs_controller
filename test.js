@@ -1,4 +1,4 @@
-const { OBSController } = require('OBSController');
+const { OBSController } = require('obs-controller');
 
 let cont = new OBSController('localhost', '4444');
 
