@@ -10,7 +10,7 @@ const
 	path = require('path');
 
 	
-const currentDir = process.cwd();
+const currentDir = __dirname;
 const OBS_COMMAND_EXEC = currentDir + '\\OBSCommand\\OBSCommand.exe';
 
 class OBSController {
